@@ -1,0 +1,14 @@
+/board_lpc_afc/.project
+/board_lpc_afc/.cproject
+/board_lpc_afc/Release
+/board_lpc_afc/Debug
+
+/chip_lpc_175x_6x/Release
+/chip_lpc_175x_6x/Debug
+/chip_lpc_175x_6x/.project
+/chip_lpc_175x_6x/.cproject
+
+/board_nxp_lpcxpresso_1769/.project
+/board_nxp_lpcxpresso_1769/.cproject
+/board_nxp_lpcxpresso_1769/Release
+/board_nxp_lpcxpresso_1769/Debug
